@@ -1,16 +1,50 @@
-# shop
+# Shop🛒
 
-A new Flutter project.
+Download Apk  - [Click Here] 
+```
+https://www.mediafire.com/file/v2hec9r10lu8517/shop.apk/file
+```
 
-## Getting Started
+<center>
+  <img src="https://i.ibb.co/Bs1Prrx/shop-Medium.jpg" />
+   <img height="500px" src="https://i.ibb.co/nnK804g/ezgif-com-gif-maker-11.gif" />
+  </center>
 
-This project is a starting point for a Flutter application.
+## How to Use 
 
-A few resources to get you started if this is your first Flutter project:
+**Step 1:**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Download or clone this repo by using the link below:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+https://github.com/iamshivamnanda/shop.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+Execute the following command to Run Flutter App:
+
+```
+flutter run
+```
+
+## Conclusion
+
+I will be happy to answer any questions that you may have on this approach.
+
+If you liked my work, don’t forget to ⭐ star the repo to show your support.
+
+Made with ♥ by <a href="https://github.com/iamshivamnanda">Shivam Nanda</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/iamshivamnanda)
+
+[Click Here]: <https://www.mediafire.com/file/v2hec9r10lu8517/shop.apk/file>
+
